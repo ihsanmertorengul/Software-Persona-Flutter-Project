@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Kulaklık",
+    "description": "Günlük kullanım için hafif, konforlu ve uzun pil ömürlü kablosuz kulaklık.",
+    "price": 899.90,
+    "image": "assets/images/product_1.jpg",
+    "category": "Elektronik"
+  },
+  {
+    "id": 2,
+    "title": "Akıllı Saat",
+    "description": "Bildirim, adım sayar ve sağlık takibi özellikleriyle akıllı saat.",
+    "price": 1499.00,
+    "image": "assets/images/product_2.jpg",
+    "category": "Elektronik"
+  },
+  {
+    "id": 3,
+    "title": "Sırt Çantası",
+    "description": "Laptop bölmeli, suya dayanıklı, şehir içi ve seyahat için ideal çanta.",
+    "price": 649.50,
+    "image": "assets/images/product_3.jpg",
+    "category": "Aksesuar"
+  },
+  {
+    "id": 4,
+    "title": "Kahve Termosu",
+    "description": "Sıcak/soğuk tutma özelliğiyle paslanmaz çelik termos.",
+    "price": 329.90,
+    "image": "assets/images/product_4.jpg",
+    "category": "Yaşam"
+  },
+  {
+    "id": 5,
+    "title": "Masa Lambası",
+    "description": "Göz yormayan ışık, 3 renk modu ve dokunmatik kontrol.",
+    "price": 479.00,
+    "image": "assets/images/product_5.jpg",
+    "category": "Ev"
+  },
+  {
+    "id": 6,
+    "title": "Defter Seti",
+    "description": "Kareli/çizgili seçenekli, 3'lü defter seti.",
+    "price": 199.90,
+    "image": "assets/images/product_6.jpg",
+    "category": "Kırtasiye"
+  }
+]
