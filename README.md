@@ -1,6 +1,6 @@
 # Mini Katalog Uygulaması (Flutter)
 
-Bu proje, Flutter temel eğitim haftası kapsamında geliştirilen **“Mini Katalog Uygulaması”** örneğidir. Amaç; widget yapısı, sayfa geçişleri (Navigator), veri modelleme (JSON), listeleme (GridView) ve basit state yönetimi (Sepet simülasyonu) konularını **ek paket kullanmadan** öğretmektir.
+Bu proje, Flutter temel eğitim haftası kapsamında geliştirilen **“Mini Katalog Uygulaması”** örneğidir. Amaç; widget yapısı, sayfa geçişleri (Navigator), veri modelleme (JSON), listeleme (GridView) ve basit state yönetimi (Sepet simülasyonu) konularını **ek paket kullanmadan** öğrenmektir.
 
 ## Özellikler
 
@@ -72,18 +72,6 @@ flutter run
 
 - Banner görseli: `assets/images/banner.png` (orijinal kaynak: `https://wantapi.com/assets/banner.png`)
 - Demo ürün verisi: `https://wantapi.com/products.php` (opsiyonel, eğitim amaçlı)
-
-## Ekran Görüntüsü
-
-İstersen buraya kendi ekran görüntülerini ekleyebilirsin:
-
-```
-assets/screenshots/
-  home.png
-  products.png
-  detail.png
-  cart.png
-```
 
 ## Lisans
 
